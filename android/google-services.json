@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352629740330",
+    "project_id": "octarapp",
+    "storage_bucket": "octarapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352629740330:android:c39da193ae302ce97c0453",
+        "android_client_info": {
+          "package_name": "com.example.octar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352629740330-q8r6iv7tp918nb7n4vg002n3duvf2jg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgeIkAgbJE_wXB7aKgg89kscBoOrVW5C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352629740330-q8r6iv7tp918nb7n4vg002n3duvf2jg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
